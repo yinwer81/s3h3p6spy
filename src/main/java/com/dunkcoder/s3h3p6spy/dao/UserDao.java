@@ -1,8 +1,8 @@
-package com.dunkcoder.s3h3.dao;
+package com.dunkcoder.s3h3p6spy.dao;
 
 import java.util.List;
 
-import com.dunkcoder.s3h3.entity.User;
+import com.dunkcoder.s3h3p6spy.entity.User;
 
 public interface UserDao {
     public void addUser(User user);

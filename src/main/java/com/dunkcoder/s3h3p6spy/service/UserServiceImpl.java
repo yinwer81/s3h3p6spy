@@ -1,4 +1,4 @@
-package com.dunkcoder.s3h3.service;
+package com.dunkcoder.s3h3p6spy.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.dunkcoder.s3h3.dao.UserDao;
-import com.dunkcoder.s3h3.entity.User;
+import com.dunkcoder.s3h3p6spy.dao.UserDao;
+import com.dunkcoder.s3h3p6spy.entity.User;
 
 @Service
 public class UserServiceImpl implements UserService {

@@ -5,10 +5,10 @@
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
 <head>
-<title>s3h3</title>
+<title>s3h3p6spy</title>
 </head>
 <body>
-    <h2>s3h3</h2>
+    <h2>s3h3p6spy</h2>
     <form:form method="post" action="add" commandName="user">
         <table>
             <tr>

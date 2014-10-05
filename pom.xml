@@ -245,7 +245,7 @@
     </dependencies>
 
     <build>
-        <finalName>s3h3</finalName>
+        <finalName>s3h3p6spy</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

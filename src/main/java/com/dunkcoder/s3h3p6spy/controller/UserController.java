@@ -1,4 +1,4 @@
-package com.dunkcoder.s3h3.controller;
+package com.dunkcoder.s3h3p6spy.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.dunkcoder.s3h3.entity.User;
-import com.dunkcoder.s3h3.service.UserService;
+import com.dunkcoder.s3h3p6spy.entity.User;
+import com.dunkcoder.s3h3p6spy.service.UserService;
 
 @Controller
 public class UserController {

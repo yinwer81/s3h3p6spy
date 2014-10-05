@@ -1,4 +1,4 @@
-package com.dunkcoder.s3h3.entity;
+package com.dunkcoder.s3h3p6spy.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

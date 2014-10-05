@@ -3,22 +3,22 @@
     xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee"
     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
     id="WebApp_ID" version="2.5">
-    <display-name>s3h3</display-name>
+    <display-name>s3h3p6spy</display-name>
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
     <servlet>
-        <servlet-name>s3h3</servlet-name>
+        <servlet-name>s3h3p6spy</servlet-name>
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
-        <servlet-name>s3h3</servlet-name>
+        <servlet-name>s3h3p6spy</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>/WEB-INF/s3h3-servlet.xml</param-value>
+        <param-value>/WEB-INF/s3h3p6spy-servlet.xml</param-value>
     </context-param>
     <filter>
         <filter-name>encodingFilter</filter-name>
